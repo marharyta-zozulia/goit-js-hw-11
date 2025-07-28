@@ -14,7 +14,7 @@ export function createGallery(images) {
         <a href="${img.largeImageURL}">
           <img src="${img.webformatURL}" alt="${img.tags}" />
         </a>
-       <<div class="info">
+       <div class="info">
       <p>Likes: ${img.likes}</p>
       <p>Views: ${img.views}</p>
       <p>Comments: ${img.comments}</p>
