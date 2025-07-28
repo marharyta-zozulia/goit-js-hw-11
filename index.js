@@ -3,7 +3,7 @@ import{a as l,S as u,i}from"./assets/vendor-DRgUjrIE.js";(function(){const o=doc
         <a href="${t.largeImageURL}">
           <img src="${t.webformatURL}" alt="${t.tags}" />
         </a>
-       <<div class="info">
+       <div class="info">
       <p>Likes: ${t.likes}</p>
       <p>Views: ${t.views}</p>
       <p>Comments: ${t.comments}</p>
